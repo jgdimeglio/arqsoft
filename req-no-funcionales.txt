@@ -1,3 +1,6 @@
 * La información manejada por el sistema está protegida de acceso no autorizado.
 * Se les garantizará el acceso a la información a los usuarios autorizados.
+* La app debe ser web.
+* La app debe correr correctamente en browsers Chrome, Firefox y Explorer.
 * Interfaz simple y amigable.
+* Debe soportar unos 500 usuarios concurrente.
