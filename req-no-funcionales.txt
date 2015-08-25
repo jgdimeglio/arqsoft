@@ -1,0 +1,3 @@
+* La información manejada por el sistema está protegida de acceso no autorizado.
+* Se les garantizará el acceso a la información a los usuarios autorizados.
+* Interfaz simple y amigable.
